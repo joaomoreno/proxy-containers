@@ -1,3 +1,3 @@
 # Proxy Containers
 
-Misc Docker containers for running proxy servers.
+Misc Docker containers running proxy servers
